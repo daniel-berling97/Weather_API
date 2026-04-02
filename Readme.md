@@ -5,8 +5,10 @@ Repositório com projetos React em desenvolvimento.
 ## Projetos
 
 ### 🌤️ Weather API
-**Versão:** 0.0.1  
+**Versão:** 0.0.2  
 **Descrição:** Aplicativo de previsão do tempo com busca por cidades do Brasil.
+
+**Atualização:** comentários antigos removidos; código simplificado e comentado somente onde necessário.
 
 **Tecnologias:**
 - React 19
@@ -49,7 +51,7 @@ VITE_API_KEY=sua_chave_api_aqui
 
 |    Projeto  | Versão | Status |
 |-------------|------- |-------------------- |
-| Weather API |  0.0.1 |  pronto |
+| Weather API |  0.0.2 |  pronto |
 
 ## Notas
 
